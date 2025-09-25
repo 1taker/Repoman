@@ -266,7 +266,9 @@ ping 8.8.8.8
 \- Go to your Security Group, click the Action button at the top and click "Delete Security Group"
 
 \- Praise Chewbacca and Get this Money
-
+git add .
+git commit -m "second commit"
+git push -u origin main
 
 
 
